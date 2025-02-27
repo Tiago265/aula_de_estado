@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    color: rgb(189, 187, 187);
+    background-color: #000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button{
+    background-color: pink;
+    border-radius: 50px;
+    border-color: pink;
+    cursor: pointer;
+}
+button:hover{
+    scale: 1.2;
+    transition-duration: 1s;
+}
+.container-app{
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 10px;
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 20px;
+    padding: 20px;
+}
