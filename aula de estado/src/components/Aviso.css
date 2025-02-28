@@ -1,9 +1,9 @@
-.container-conversao{
+.container-aviso{
     border-style: solid;
     border-color: aliceblue;
     border-radius: 10px;
     width: 20%;
     margin-left: 40%;
-    padding: 20px;
     margin-top: 20px;
+    padding: 20px;
 }
